@@ -1,0 +1,74 @@
+c:\documents and settings\pizaro\my documents\visual studio 2010\Projects\Othello_AI\Othello_AI\bin\Debug\Othello_AI.exe
+c:\documents and settings\pizaro\my documents\visual studio 2010\Projects\Othello_AI\Othello_AI\bin\Debug\Othello_AI.pdb
+c:\documents and settings\pizaro\my documents\visual studio 2010\Projects\Othello_AI\Othello_AI\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\pizaro\my documents\visual studio 2010\Projects\Othello_AI\Othello_AI\obj\x86\Debug\MainWindow.baml
+c:\documents and settings\pizaro\my documents\visual studio 2010\Projects\Othello_AI\Othello_AI\obj\x86\Debug\MainWindow.g.cs
+c:\documents and settings\pizaro\my documents\visual studio 2010\Projects\Othello_AI\Othello_AI\obj\x86\Debug\App.g.cs
+c:\documents and settings\pizaro\my documents\visual studio 2010\Projects\Othello_AI\Othello_AI\obj\x86\Debug\Othello_AI_MarkupCompile.cache
+c:\documents and settings\pizaro\my documents\visual studio 2010\Projects\Othello_AI\Othello_AI\obj\x86\Debug\Othello_AI.g.resources
+c:\documents and settings\pizaro\my documents\visual studio 2010\Projects\Othello_AI\Othello_AI\obj\x86\Debug\Othello_AI.Properties.Resources.resources
+c:\documents and settings\pizaro\my documents\visual studio 2010\Projects\Othello_AI\Othello_AI\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\pizaro\my documents\visual studio 2010\Projects\Othello_AI\Othello_AI\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\pizaro\my documents\visual studio 2010\Projects\Othello_AI\Othello_AI\obj\x86\Debug\Othello_AI.exe
+c:\documents and settings\pizaro\my documents\visual studio 2010\Projects\Othello_AI\Othello_AI\obj\x86\Debug\Othello_AI.pdb
+c:\documents and settings\pizaro\my documents\visual studio 2010\Projects\Othello_AI\Othello_AI\bin\Debug\Thriple.dll
+c:\documents and settings\pizaro\my documents\visual studio 2010\Projects\Othello_AI\Othello_AI\bin\Debug\Thriple.pdb
+D:\เนื้อหี่เรียน\ปี3เทอม1\AI\Othello_AI\Othello_AI\obj\x86\Debug\Othello_AI.exe
+D:\เนื้อหี่เรียน\ปี3เทอม1\AI\Othello_AI\Othello_AI\obj\x86\Debug\Othello_AI.pdb
+D:\เนื้อหี่เรียน\ปี3เทอม1\AI\Othello_AI\Othello_AI\bin\Debug\Othello_AI.exe
+D:\เนื้อหี่เรียน\ปี3เทอม1\AI\Othello_AI\Othello_AI\bin\Debug\Othello_AI.pdb
+D:\เนื้อหี่เรียน\ปี3เทอม1\AI\Othello_AI\Othello_AI\bin\Debug\Thriple.pdb
+D:\เนื้อหี่เรียน\ปี3เทอม1\AI\Othello_AI\Othello_AI\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\เนื้อหี่เรียน\ปี3เทอม1\AI\Othello_AI\Othello_AI\obj\x86\Debug\MainWindow.baml
+D:\เนื้อหี่เรียน\ปี3เทอม1\AI\Othello_AI\Othello_AI\obj\x86\Debug\MainWindow.g.cs
+D:\เนื้อหี่เรียน\ปี3เทอม1\AI\Othello_AI\Othello_AI\obj\x86\Debug\App.g.cs
+D:\เนื้อหี่เรียน\ปี3เทอม1\AI\Othello_AI\Othello_AI\obj\x86\Debug\Othello_AI_MarkupCompile.cache
+D:\เนื้อหี่เรียน\ปี3เทอม1\AI\Othello_AI\Othello_AI\obj\x86\Debug\Othello_AI.g.resources
+D:\เนื้อหี่เรียน\ปี3เทอม1\AI\Othello_AI\Othello_AI\obj\x86\Debug\Othello_AI.Properties.Resources.resources
+D:\เนื้อหี่เรียน\ปี3เทอม1\AI\Othello_AI\Othello_AI\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\เนื้อหี่เรียน\ปี3เทอม1\AI\Othello_AI\Othello_AI\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\Othello_AI.exe
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\Othello_AI.pdb
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_110911_1445\Othello_AI\bin\Debug\Othello_AI.exe
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_110911_1445\Othello_AI\bin\Debug\Othello_AI.pdb
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_110911_1445\Othello_AI\bin\Debug\Thriple.dll
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_110911_1445\Othello_AI\bin\Debug\Thriple.pdb
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\MainWindow.baml
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\MainWindow.g.cs
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\App.g.cs
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\Othello_AI_MarkupCompile.cache
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\Othello_AI.g.resources
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\Othello_AI.Properties.Resources.resources
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\เนื้อหี่เรียน\ปี3เทอม1\AI\Othello_AI_120911_0246\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\Othello_AI.exe
+D:\เนื้อหี่เรียน\ปี3เทอม1\AI\Othello_AI_120911_0246\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\Othello_AI.pdb
+D:\เนื้อหี่เรียน\ปี3เทอม1\AI\Othello_AI_120911_0246\Othello_AI_110911_1445\Othello_AI\bin\Debug\Othello_AI.exe
+D:\เนื้อหี่เรียน\ปี3เทอม1\AI\Othello_AI_120911_0246\Othello_AI_110911_1445\Othello_AI\bin\Debug\Othello_AI.pdb
+D:\เนื้อหี่เรียน\ปี3เทอม1\AI\Othello_AI_120911_0246\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\เนื้อหี่เรียน\ปี3เทอม1\AI\Othello_AI_120911_0246\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\MainWindow.baml
+D:\เนื้อหี่เรียน\ปี3เทอม1\AI\Othello_AI_120911_0246\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\MainWindow.g.cs
+D:\เนื้อหี่เรียน\ปี3เทอม1\AI\Othello_AI_120911_0246\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\App.g.cs
+D:\เนื้อหี่เรียน\ปี3เทอม1\AI\Othello_AI_120911_0246\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\Othello_AI_MarkupCompile.cache
+D:\เนื้อหี่เรียน\ปี3เทอม1\AI\Othello_AI_120911_0246\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\Othello_AI.g.resources
+D:\เนื้อหี่เรียน\ปี3เทอม1\AI\Othello_AI_120911_0246\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\Othello_AI.Properties.Resources.resources
+D:\เนื้อหี่เรียน\ปี3เทอม1\AI\Othello_AI_120911_0246\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\เนื้อหี่เรียน\ปี3เทอม1\AI\Othello_AI_120911_0246\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_latest\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\Othello_AI.exe
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_latest\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\Othello_AI.pdb
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_latest\Othello_AI_110911_1445\Othello_AI\bin\Debug\Othello_AI.exe
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_latest\Othello_AI_110911_1445\Othello_AI\bin\Debug\Othello_AI.pdb
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_latest\Othello_AI_110911_1445\Othello_AI\bin\Debug\Thriple.dll
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_latest\Othello_AI_110911_1445\Othello_AI\bin\Debug\Thriple.pdb
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_latest\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_latest\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\MainWindow.baml
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_latest\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\MainWindow.g.cs
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_latest\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\App.g.cs
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_latest\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\Othello_AI_MarkupCompile.cache
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_latest\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\Othello_AI.g.resources
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_latest\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\Othello_AI.Properties.Resources.resources
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_latest\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_latest\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_latest\Othello_AI_110911_1445\Othello_AI\obj\x86\Debug\Othello_AI_Content.g.cs
+D:\เนื้อหาที่เรียน\ปี3เทอม1\AI\Othello_AI_latest\Othello_AI_110911_1445\Othello_AI\bin\Debug\gun_shotgun1.wav
